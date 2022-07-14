@@ -6,5 +6,6 @@
 * Description which was 30 characters was not work.
 * Comment box was not work
 * Hidden post was not work properly
-* Liked post was not show properly
-I find them properly and fix them.
+* Liked post was not show properly.
+
+I find them and fix them properly.
