@@ -1,5 +1,5 @@
 # Insta-Shohor
-# Live site:
+# Live site: https://khaled39ab.github.io/Insta-Shohor/
 ## This is an assignment of finding bugs and debug it. There was 6 bugs, such as 
 * Post's like button was not work.
 * Show user's photo on the top.
