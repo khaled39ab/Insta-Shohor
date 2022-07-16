@@ -9,3 +9,6 @@
 * Liked post was not show properly.
 
 I find them and fix them properly.
+
+Also  added 2 articles in home page.
+
