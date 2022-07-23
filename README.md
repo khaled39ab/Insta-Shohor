@@ -10,5 +10,5 @@
 
 I find them and fix them properly.
 
-Also  added 2 articles about Difference between local storage & session storage and How does JavaScript work?
+Also  added 2 articles about Difference between local storage & session storage? and How does JavaScript work?
 
