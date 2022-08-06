@@ -1,6 +1,8 @@
 # Insta-Shohor
 # Live site: https://glittering-clafoutis-68b034.netlify.app/
-## This is an assignment of finding bugs and debug it. There was 6 bugs, such as 
+
+## Short brief of project
+### This is an assignment of finding bugs and debug it. There was 6 bugs, such as 
 * Post's like button was not work.
 * Show user's photo on the top.
 * Description which was 30 characters was not work.
